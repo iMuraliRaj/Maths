@@ -1,0 +1,7 @@
+In this simple trick, we need to modify the equation and make the units digit zero. After all, it is easy to multiply when units digit is zero.
+
+For example - Find square of 43
+= (43+3) × (43-3) + (3×3)
+=(46×40) + 9
+= (460×4) + 9
+= 1840 + 9 = 1849
